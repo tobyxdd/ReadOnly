@@ -1,4 +1,4 @@
-![Icon](/RawAssets/icon_book.png =80x)
+<img src="/RawAssets/icon_book.png" style="width: 80px;"/>
 
 ReadOnly 悦读 For Android
 =========================
