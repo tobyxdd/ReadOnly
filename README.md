@@ -1,4 +1,4 @@
-﻿![Icon](/RawAssets/icon_book.png =80x)
+![Icon](/RawAssets/icon_book.png =80x)
 
 ReadOnly 悦读 For Android
 =========================
